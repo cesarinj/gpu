@@ -23,6 +23,9 @@ clonacion de repositorio
 4. Acceder en modo interactivo a un nodo de cómputo con GPUs (`gen9` o `gen11`) [3 puntos]
     - Compilar y ejecutar `Nbody`
     - Proporcionar screenshot(s) de los resultados
+
+![compilar](https://github.com/cesarinj/gpu/blob/main/compilar.JPG)
+
         - Por cada screenshot, añadir una breve descripción
 5. Realizar un análisis de _**GPU Hotspots**_ con VTune [8 puntos]
     - Indicar los hotspots del programa
