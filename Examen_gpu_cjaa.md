@@ -24,7 +24,7 @@ clonacion de repositorio
     - Compilar y ejecutar `Nbody`
     - Proporcionar screenshot(s) de los resultados
 
-![compilar](https://github.com/cesarinj/gpu/blob/main/compilar.JPG)
+![make](https://github.com/cesarinj/gpu/blob/main/make.JPG)
 
         - Por cada screenshot, añadir una breve descripción
 5. Realizar un análisis de _**GPU Hotspots**_ con VTune [8 puntos]
