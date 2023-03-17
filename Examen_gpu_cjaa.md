@@ -3,8 +3,9 @@ Resolucion de examen  GPU
 
 0. Clonar el repositorio [`oneAPI-samples`](https://github.com/oneapi-src/oneAPI-samples) [1 punto]
 
-![clonacion](https://github.com/cesarinj/gpu/main/clonacion.jpg)
+![clonacion](https://github.com/cesarinj/gpu/clonacion.jpg)
 
+https://github.com/cesarinj/gpu/main/clonacion.jpg
 
 clonacion de repositorio
 
