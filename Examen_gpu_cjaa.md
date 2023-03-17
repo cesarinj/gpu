@@ -15,7 +15,7 @@ clonacion de repositorio
     - Directorio: `oneAPI-samples/tree/master/DirectProgramming/C++SYCL/N-BodyMethods/Nbody`
 
 
-
+![carpeta](https://github.com/cesarinj/gpu/blob/main/carpeta.JPG)
 
 
 
