@@ -38,6 +38,11 @@ La simulación de Nbody es una simulación de un sistema dinámico de partícula
     - Proporcionar screenshot(s) de los resultados
 
 ![make](https://github.com/cesarinj/gpu/blob/main/make.JPG)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/1.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/2.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/3.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/4.jpg)
+
 
         - Por cada screenshot, añadir una breve descripción
 ## 5. Realizar un análisis de _**GPU Hotspots**_ con VTune [8 puntos]
@@ -48,10 +53,6 @@ La simulación de Nbody es una simulación de un sistema dinámico de partícula
       - Por cada screenshot, añadir una breve descripción
 
 
-![carpeta](https://github.com/cesarinj/gpu/blob/main/1.jpg)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/2.jpg)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/3.jpg)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/4.jpg)
 
 
 ## 6. Realizar un análisis _**Roofline**_ con Advisor [4 puntos]
