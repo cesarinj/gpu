@@ -77,6 +77,6 @@ Simulacion de gravedad
  memory bound alta dependencia de acceso de memoria
  compute bound el cuello de botella se debe a que queremos porque queremos usar muchas operaciones sistematicamnte
     
-![rutinas](https://github.com/cesarinj/gpu/blob/main/rutinas.jpg
+![rutinas](https://github.com/cesarinj/gpu/blob/main/rutinas.jpg)
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/5.jpg)
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/6.jpg)
