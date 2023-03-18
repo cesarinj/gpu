@@ -71,5 +71,12 @@ Simulacion de gravedad
     - Proporcionar screenshot(s) de los resultados
       - Por cada screenshot, añadir una breve descripción
     - Indicar potenciales soluciones para optimizar la ejecución del programa
+ 
+ 
+ Mejora de codigo
+ memory bound alta dependencia de acceso de memoria
+ compute bound el cuello de botella se debe a que queremos porque queremos usar muchas operaciones sistematicamnte
+    
+    
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/5.jpg)
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/6.jpg)
