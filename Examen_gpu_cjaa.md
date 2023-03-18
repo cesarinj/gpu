@@ -38,9 +38,19 @@ La simulación de Nbody es una simulación de un sistema dinámico de partícula
     - Proporcionar screenshot(s) de los resultados
 
 ![make](https://github.com/cesarinj/gpu/blob/main/make.JPG)
+En este grafico se compila creando una carpeta de trabajo nbody
+
+
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/1.jpg)
+
+
+
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/2.jpg)
+
+
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/3.jpg)
+
+
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/4.jpg)
 
 
