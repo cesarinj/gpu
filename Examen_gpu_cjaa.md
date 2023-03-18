@@ -78,5 +78,6 @@ Simulacion de gravedad
  compute bound el cuello de botella se debe a que queremos porque queremos usar muchas operaciones sistematicamnte
     
 ![rutinas](https://github.com/cesarinj/gpu/blob/main/rutinas.jpg)
+Nos muesta que podemos tener mas mejoras or acceso a memoria que por problemas de hardware 
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/5.jpg)
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/6.jpg)
