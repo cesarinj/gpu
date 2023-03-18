@@ -7,7 +7,7 @@ Dictado por Leonardo y Luciana
 El objetivo de la presente evaluacion es poder verificar un codigo ejemplo con VT Tune Y Advisor , herramients de intel ( herramientas que nos permiten poder decir que tan paralelisable es , si es mejor usar GPUs o CPUs
 
 
-por cesar aguirre
+escrito por cesar aguirre
 
 ##0. Clonar el repositorio [`oneAPI-samples`](https://github.com/oneapi-src/oneAPI-samples) [1 punto]
 
@@ -15,6 +15,7 @@ por cesar aguirre
 
 https://github.com/cesarinj/gpu/blob/main/clonacion.JPG
 
+En este paso se tomara un ejemplo de ONeAPI, nosotros usaremos nbody
 clonacion de repositorio
 
 
