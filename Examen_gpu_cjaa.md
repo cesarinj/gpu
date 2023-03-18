@@ -53,7 +53,7 @@ La simulación de Nbody es una simulación de un sistema dinámico de partícula
       - Por cada screenshot, añadir una breve descripción
 
 
-
+![carpeta](https://github.com/cesarinj/gpu/blob/main/vttune.jpg)
 
 ## 6. Realizar un análisis _**Roofline**_ con Advisor [4 puntos]
 
