@@ -1,5 +1,11 @@
 
 ## Resolucion de examen  GPU
+Este repositorio contiene la resolucion del examen del curso Computacion de alto rendimiento con GPUs 
+Dictado por Leonardo y Luciana
+
+
+El objetivo de la presente evaluacion es poder verificar un codigo ejemplo con VT Tune Y Advisor , herramients de intel ( herramientas que nos permiten poder decir que tan paralelisable es , si es mejor usar GPUs o CPUs
+
 
 por cesar aguirre
 
