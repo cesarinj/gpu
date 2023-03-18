@@ -26,9 +26,13 @@ clonacion de repositorio
 
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/carpeta.JPG)
 
-
+en este carpeta se muestra los archivos que contiene la carpeta nbody
 
 ##3. Explicar brevemente el algoritmo de `Nbody` [3 puntos]
+
+La simulación de Nbody es una simulación de un sistema dinámico de partículas,que se encuentran interaccionando por las fuerzas como la gravedad. Este código de muestra de Nbody usa estándares SYCL* para CPU y GPU.
+
+
 ##4. Acceder en modo interactivo a un nodo de cómputo con GPUs (`gen9` o `gen11`) [3 puntos]
     - Compilar y ejecutar `Nbody`
     - Proporcionar screenshot(s) de los resultados
