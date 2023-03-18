@@ -35,10 +35,10 @@ clonacion de repositorio
       - Por cada screenshot, añadir una breve descripción
 
 
-![carpeta](https://github.com/cesarinj/gpu/blob/main/1.JPG)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/2.JPG)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/3.JPG)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/4.JPG)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/1.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/2.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/3.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/4.jpg)
 
 
 6. Realizar un análisis _**Roofline**_ con Advisor [4 puntos]
@@ -47,5 +47,5 @@ clonacion de repositorio
     - Proporcionar screenshot(s) de los resultados
       - Por cada screenshot, añadir una breve descripción
     - Indicar potenciales soluciones para optimizar la ejecución del programa
-![carpeta](https://github.com/cesarinj/gpu/blob/main/5.JPG)
-![carpeta](https://github.com/cesarinj/gpu/blob/main/6.JPG)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/5.jpg)
+![carpeta](https://github.com/cesarinj/gpu/blob/main/6.jpg)
