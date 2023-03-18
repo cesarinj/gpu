@@ -56,6 +56,7 @@ Simulacion de gravedad
 
         - Por cada screenshot, añadir una breve descripción
 ## 5. Realizar un análisis de _**GPU Hotspots**_ con VTune [8 puntos]
+Nos permite ver mejoras que se pueden dar en la arquitetura 
 
 
     - Indicar los hotspots del programa
