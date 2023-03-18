@@ -42,7 +42,7 @@ En este grafico se compila creando una carpeta de trabajo nbody
 
 
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/1.jpg)
-
+Simulacion de gravedad
 
 
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/2.jpg)
