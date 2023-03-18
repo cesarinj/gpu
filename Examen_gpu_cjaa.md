@@ -1,9 +1,9 @@
 
-Resolucion de examen  GPU
+## Resolucion de examen  GPU
 
 por cesar aguirre
 
-0. Clonar el repositorio [`oneAPI-samples`](https://github.com/oneapi-src/oneAPI-samples) [1 punto]
+##0. Clonar el repositorio [`oneAPI-samples`](https://github.com/oneapi-src/oneAPI-samples) [1 punto]
 
 ![clonacion](https://github.com/cesarinj/gpu/blob/main/clonacion.JPG)
 
@@ -13,7 +13,7 @@ clonacion de repositorio
 
 
 
-2. Cambiar al directorio del ejemplo `Nbody`  [1 punto]
+##2. Cambiar al directorio del ejemplo `Nbody`  [1 punto]
     - Directorio: `oneAPI-samples/tree/master/DirectProgramming/C++SYCL/N-BodyMethods/Nbody`
 
 
@@ -21,15 +21,15 @@ clonacion de repositorio
 
 
 
-3. Explicar brevemente el algoritmo de `Nbody` [3 puntos]
-4. Acceder en modo interactivo a un nodo de cómputo con GPUs (`gen9` o `gen11`) [3 puntos]
+##3. Explicar brevemente el algoritmo de `Nbody` [3 puntos]
+##4. Acceder en modo interactivo a un nodo de cómputo con GPUs (`gen9` o `gen11`) [3 puntos]
     - Compilar y ejecutar `Nbody`
     - Proporcionar screenshot(s) de los resultados
 
 ![make](https://github.com/cesarinj/gpu/blob/main/make.JPG)
 
         - Por cada screenshot, añadir una breve descripción
-5. Realizar un análisis de _**GPU Hotspots**_ con VTune [8 puntos]
+##5. Realizar un análisis de _**GPU Hotspots**_ con VTune [8 puntos]
 
 
     - Indicar los hotspots del programa
@@ -43,7 +43,7 @@ clonacion de repositorio
 ![carpeta](https://github.com/cesarinj/gpu/blob/main/4.jpg)
 
 
-6. Realizar un análisis _**Roofline**_ con Advisor [4 puntos]
+##6. Realizar un análisis _**Roofline**_ con Advisor [4 puntos]
 
     - Indicar los hotspots del programa
     - Proporcionar screenshot(s) de los resultados
